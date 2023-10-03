@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James.
-- 👀 In my free time, I'm a web developer specializing in WordPress and the Divi theme from Elegant Themes. 
+- 👀 In my free time, I'm a web developer specializing in [WordPress](https://www.wordpress.org) and the [Divi theme](https://www.elegantthemes.com/gallery/divi/) from [Elegant Themes](https://www.elegantthemes.com/). 
 - 🌱 I’m currently working to become a certified Microsoft Power App Maker and SharePoint Developer. 
 - 💞️ I’m open to connecting with fellow developers, however, I'm not looking to collaborate on anything at this time.
 - 📫 How to reach me james.hawkins@snolab.ca or reactivewebstudio@gmail.com
