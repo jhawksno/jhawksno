@@ -1,4 +1,4 @@
-- 👋 ** Hi, I’m James!**
+- 👋 Hi, I’m James!
 - 👀 I'm an IT Supervisor, Microsoft Power Platform App Maker Associate, and SharePoint developer.
 - 🌱 I’m currently working to become a Microsoft Power Platform Solution Architect Expert. 
 - 💞️ I’m open to connecting with fellow developers and collaborating on interesting projects.
