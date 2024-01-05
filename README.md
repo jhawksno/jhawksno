@@ -3,7 +3,7 @@ I'm an **IT Supervisor**, **Microsoft Power Platform App Maker Associate**, **Sh
 
 I’m currently working to become a **Microsoft Power Platform Solution Architect Expert**. 
 
-Get in touch: james.hawkins@snolab.ca or check out [My personal blog](https://jameshawkins.codes). 
+Get in touch: *jameshawkinscodes@outlook.com* or check out [My personal blog](https://jameshawkins.codes). 
 
 <!---
 jhawksno/jhawksno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
