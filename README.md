@@ -5,7 +5,7 @@ I’m currently working towards becoming a certified **Microsoft Power Platform 
 
 ## What I'm working on
 
-Mastering pure JavaScript, learning Gulp.js, building websites using Jekyll, learning SPFx and studying for my PL-600 Microsoft Certification. 
+Mastering pure JavaScript, learning Gulp.js, building websites using Jekyll and Ruby Gems, building faster WordPress websites, building Microsoft Power Apps, building custom web parts for SharePoint, learning SPFx and studying for my PL-600 Microsoft Certification. 
 
 ## Contact me
 
