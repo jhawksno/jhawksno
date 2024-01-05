@@ -1,9 +1,15 @@
 # 👋 Hi, I’m James!
 I'm an **IT Supervisor**, **Microsoft Power Platform App Maker Associate**, **SharePoint developer**, and **web developer**.
 
-I’m currently working to become a **Microsoft Power Platform Solution Architect Expert**. 
+I’m currently working towards becoming a certified **Microsoft Power Platform Solution Architect Expert**. 
 
-Get in touch: *jameshawkinscodes@outlook.com* or check out [My personal blog](https://jameshawkins.codes). 
+## What I'm working on
+
+Mastering pure JavaScript, learning Gulp.js, building websites using Jekyll, learning SPFx and studying for my PL-600 Microsoft Certification. 
+
+## Contact me
+
+Get in touch: jameshawkinscodes@outlook.com or check out [My personal blog](https://jameshawkins.codes). 
 
 <!---
 jhawksno/jhawksno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
