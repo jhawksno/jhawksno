@@ -11,6 +11,10 @@ Mastering pure JavaScript, learning Gulp.js, building websites using Jekyll and 
 
 Get in touch: jameshawkinscodes@outlook.com or check out [My personal blog](https://jameshawkins.codes). 
 
+## Follow me
+
+
+
 <!---
 jhawksno/jhawksno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
