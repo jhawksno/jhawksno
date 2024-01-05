@@ -14,7 +14,7 @@ Get in touch: jameshawkinscodes@outlook.com or check out [My personal blog](http
 ## Follow me
 
 [![LinkedIn](https://github.com/jhawksno/jhawksno/assets/linkedin.svg)](https://www.linkedin.com/in/james-hawkins)
-
+![Test](assets/linkedin.svg)(.)
 <!---
 jhawksno/jhawksno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
