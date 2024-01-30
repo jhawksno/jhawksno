@@ -11,6 +11,8 @@ Mastering pure JavaScript, learning Gulp.js, building websites using Jekyll and 
 
 Get in touch: jameshawkinscodes@outlook.com.
 
+Join my Sudbury Power Platform User Group: https://powerusers.microsoft.com/t5/Sudbury-Power-Platform-User/gh-p/SudburyPowerPlatformUserGroup
+
 ## Follow me
 
 [![LinkedIn](/assets/linkedin.svg)](https://www.linkedin.com/in/james-hawkins)
