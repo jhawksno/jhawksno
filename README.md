@@ -9,7 +9,7 @@ Mastering pure JavaScript, learning Gulp.js, building websites using Jekyll and 
 
 ## Contact me
 
-Get in touch: jameshawkinscodes@outlook.com or check out [My personal blog](https://jameshawkins.codes). 
+Get in touch: jameshawkinscodes@outlook.com.
 
 ## Follow me
 
