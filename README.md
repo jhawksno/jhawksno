@@ -19,7 +19,6 @@ I’m currently completing the [Microsoft Power Up Program](https://powerup.micr
 -  Mastering *vanilla* JavaScript
 -  Building static websites with [Jekyll](https://jekyllrb.com/) and [RubyGems](https://rubygems.org/)
 -  Building faster [WordPress](https://wordpress.org) themes and websites
--  
 
 ## Contact me
 
