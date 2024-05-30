@@ -6,7 +6,6 @@ I’m currently completing the [Microsoft Power Up Program](https://powerup.micr
 ## What I'm working on
 
 **Microsoft Stuff**
-- Completing the [Microsoft Power Up Program](https://powerup.microsoft.com/) *(finishes in March)*
 - Building Microsoft Power Apps
 - Building custom SharePoint sites and Webparts
 - Becoming fluent with SPFx
