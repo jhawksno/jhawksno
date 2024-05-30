@@ -1,7 +1,7 @@
 # 👋 Hi, I’m James!
 I'm an **IT Supervisor**, **Microsoft Power Platform App Maker Associate**, **SharePoint developer**, and **web developer**. 
 
-I’m currently completing the [Microsoft Power Up Program](https://powerup.microsoft.com/) and working towards becoming a certified [Microsoft Power Platform Solution Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-solution-architect-expert/). 
+I’m currently  working towards becoming a certified [Microsoft Power Platform Solution Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-solution-architect-expert/). 
 
 ## What I'm working on
 
